@@ -8,7 +8,7 @@ Esta es una aplicación para dispositivos con Windows creada con C# en Visual St
 
 ## Instalación
 El proyecto no requiere de instalación, solo abrir con Visual Studio.
-Si se desea hacer funcionar, es necesario modificar los parámetros de conexión a la base de datos.
+Si se desea hacer funcionar, es necesario arrancar la base de datos con el script proporcionado y modificar los parámetros de conexión a la base de datos.
 
 ## Contratación
 Si se desea contactarme puede escribirme a 3ismaelsanchez@gmail.com para consultas.
